@@ -4,7 +4,7 @@ import os,time
 import re
 
 # 安装包路径
-apk_path = '/Users/刘强/Downloads/Ksong.apk'
+apk_path = '/Users/xx/Downloads/Ksong.apk'
 pkg_name = 'com.tencent.karaoke'
 activity = 'com.tencent.karaoke.module.splash.ui.SplashBaseActivity'
 
